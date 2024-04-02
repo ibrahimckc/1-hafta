@@ -1,0 +1,61 @@
+
+h1{
+    color:blueviolet
+     ;
+}
+
+h2{color:rgb(134, 83, 19)}
+
+.bold-ibo{
+
+    color:blue;
+}
+
+.altıÇizgili{
+    text-decoration: overline;
+}
+
+#ic{
+    background-color: blue;
+    width: 30%;
+}
+
+.sabit{
+    position:fixed;
+}
+
+body{
+    height: 2000px;
+}
+
+.elma{
+    border: 5px dashed red;
+}
+
+.flex-container{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+height: 100vh;
+}
+.header-container{ color: aqua;
+background-color:#D6E9FE ;
+justify-content: center;}
+
+.header {width: 900px;
+height: 300px;
+display: flex;
+justify-content: space-between;
+align-items: center;}
+
+.foto-grid{display: flex;
+    justify-content: center;
+}
+.foto-grid{ width: 900px;
+display: flex;
+justify-content:center;
+flex-wrap: wrap;}
+
+.foto-grid-item{ border: 1px solid #632727;
+}
